@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World! 👋
+
+## Qui je suis je ? 
+Je suis un développeur sous le pseudonime de Loukaa, je développe principalement du web avec ReactJs.
 
 <!--
 **loukaa554/loukaa554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
